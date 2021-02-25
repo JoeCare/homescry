@@ -1,2 +1,2 @@
-# PyGame
-PyGame UI practice
+# Python BeatufilScraper
+
